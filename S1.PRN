@@ -1,0 +1,66 @@
+
+
+
+
+
+             FTGBC   Version 1.0   (c) 1994 by Prentice Hall, Inc.
+                 Bearing Capacity Analysis of Spread Footings
+
+  Title:         RSIA
+
+  Unit System:   SI                       Date: **********    Time:  11:21 AM
+  (Press ALT-U to set unit system)
+                                        ***************************************
+  Footing Shape: Square                 *              RESULTS                *
+  (Press ALT-S to set footing shape)    *                                     *
+                                        *ALLOWABLE BEARING CAPACITY (kPa)     *
+                                        *                                     *
+  Footing Width         =  1.00  m      *                              Brinch *
+  Footing Depth         =  1.00  m      *        Terzaghi  Meyerhof    Hansen *
+  Base Inclination      =     0  deg    * Gross        88        88        84 *
+  Ground Inclination    =     0  deg    * Net          83        83        79 *
+  Soil Cohesion         =    35  kPa    *                                     *
+  Soil Friction Angle   =     0  deg    *ALLOWABLE COLUMN LOAD (kN)           *
+  Soil Unit Weight      =  15.0  kN/cu m*                                     *
+  Depth to Groundwater  =   0.0  m      *                              Brinch *
+  Factor of Safety      =  3.00         *        Terzaghi  Meyerhof    Hansen *
+                                        *            83.3      83.1      79.0 *
+  Applied Loads (Needed only if shear>0)***************************************
+      Normal          P = XXXXXX kN
+      Shear           V = XXXXXX kN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
